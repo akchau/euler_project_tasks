@@ -1,2 +1,2 @@
 # euler_project_tasks
-Решение задач с ресурса projecteuler.net
+Решение задач с ресурса `projecteuler.net`
